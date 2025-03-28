@@ -1,5 +1,3 @@
-my_list = [1, 2, 3, 4, 5]
-
 def binary_search(my_list, item):
   low = 0
   high = len(my_list) - 1
@@ -17,4 +15,5 @@ def binary_search(my_list, item):
 
   return None
 
-print(binary_search(my_list, 3))
+my_list = [1, 2, 3, 4, 5]
+print(binary_search(my_list, 3)) # Output: 2
