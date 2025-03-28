@@ -8,8 +8,7 @@ I plan to continually add new algorithms and experiment with different languages
 
 - Python
 - JavaScript
-- C++
-- Java
+- TypeScript
 
 Stay tuned for more languages and algorithms!
 
